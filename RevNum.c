@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 int main() {
-    int a, b, r;
+    int a, b, r, z;
     printf("enter a number:");
-    scanf("%d",&a);
+    scanf("%d",&z);
+    a=z;
     while (a>0) {
         r=a%10;
         b=b*10 + r;
         a=a/10;
     }
-    printf("%d REVERSE!",b);
+    printf("%d is REVERSE of %d",b,z);
     return 0;
 }
