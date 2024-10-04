@@ -16,3 +16,12 @@ int main() {
     }
     return 0;
 }
+
+/*
+enter a number:12345
+54321 is REVERSE of 12345
+
+enter a number:15351 
+15351 is REVERSE of 15351
+PALINROME!!!
+*/

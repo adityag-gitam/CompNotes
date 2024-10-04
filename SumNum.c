@@ -13,3 +13,7 @@ int main() {
     printf("%d is REVERSE of %d",b,z);
     return 0;
 }
+/*
+enter a number:1234
+10 is REVERSE of 1234
+*/

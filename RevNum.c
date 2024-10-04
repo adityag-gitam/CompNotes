@@ -13,3 +13,8 @@ int main() {
     printf("%d is REVERSE of %d",b,z);
     return 0;
 }
+
+/*
+enter a number:12345
+54321 is REVERSE of 12345
+*/
