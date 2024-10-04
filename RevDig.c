@@ -13,8 +13,8 @@ int main() {
         b=b*10 + r;
         a=a/10;
     }
-    printf("%d is Yournumber\n",z);
-    printf("%d is REVERSE of %d",b,z);
+    printf("%d is Yournumber\n",z/10);
+    printf("%d is REVERSE of %d",b,z/10);
     return 0;
 }
 
@@ -25,6 +25,6 @@ enter a number:3
 enter a number:4
 enter a number:5
 enter a number:0
-123450 is Yournumber
-54321 is REVERSE of 123450
+12345 is Yournumber
+54321 is REVERSE of 12345
 */
