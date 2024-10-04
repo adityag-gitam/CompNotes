@@ -11,7 +11,12 @@ int main() {
         a=a/10;
     }
     if (b==z){
-        printf("ARMSTRONG!!!");
+        printf("%d is an ARMSTRONG number!!!",z);
     }
     return 0;
 }
+
+/*
+enter a number:153
+153 is an ARMSTRONG number!!!
+*/
